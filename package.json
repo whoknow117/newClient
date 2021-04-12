@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://whoknow117.github.io/Client",
+  "homepage": "https://whoknow117.github.io/newClient",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
